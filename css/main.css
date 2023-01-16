@@ -1,0 +1,58 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    background-color: rgb(247, 241, 252);
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 0 25px;
+    color: rgb(29, 10, 47);
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 35px;
+    color: rgb(29, 10, 47);
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.heading {
+    background-color: rgb(217, 184, 248);
+    padding: 5px;
+    margin: 15px 0;
+}
+
+
+img {
+    max-width: 150px;
+    width: 100%;
+    height: auto;
+    float: left;
+    padding-right: 20px;
+}
+
+dl {
+    background-color: rgb(217, 184, 248);
+    color: rgb(29, 10, 47);
+    padding: 10px 15px;
+    line-height: 35px;
+    margin: 0 auto;
+    font-size: 1.15rem;
+}
+
+dt {
+    font-weight: 800;
+}
+
+dd {
+    font-weight: 600;
+    margin-left: 0;
+}
